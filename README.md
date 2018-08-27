@@ -46,11 +46,14 @@ npm install
 
 
 ----------------------------------------------------------------------
-SECTION4 : Running the UI
+SECTION3 : Running the UI
 ----------------------------------------------------------------------
 1. npm run start
 - Local development server will be running to host a beautiful DAPP and yes you can donate to "Kerala Flood Relief"(test platform though), if you have uPort App installed with Rinkebey configured.
 - You can also visualise the transparency of goal set/target/current status.
 
-2.  This demo dApp should be available at: http://localhost:3000/ and look like this: 
+2.  This demo dApp should be available at: http://localhost:3000/ and look like in the screenshot attached.
+
+3. once uPort transaction is signed, please wait for few seconds(5-8) to get the Donors and targeted goals update. If not update, please do refresh of the page which would fetch the state and display the Donors count and goals correctly from the Rinkeby blockchain.
+
 
