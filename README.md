@@ -4,28 +4,28 @@ SECTION1 : vCharity - Charity Platform for making Change together with Transpare
 1.Objective: vCharity - A social funding and impact management platform built on the Ethereum blockchain.
 Each charity project encodes a list of "goals" that the charity aims to achieve, and each goal is assigned a price that the charity will receive if/when the goal is provably achieved.
 
-1. Transparent Donation
+    1. Transparent Donation
 
-2. Track your donation
-3. Only pay if it works
+    2. Track your donation
+    3. Only pay if it works
 
 
 2. What's Implemented in This Project:
-1. Solidity Contract to implement the Charity platform. 
+       1. Solidity Contract to implement the Charity platform. 
 
-2. The UI is based off react and it will tell story to the point
-Screen 1 : Project Catalog of Funding platform
+       2. The UI is based off react and it will tell story to the point
+            Screen 1 : Project Catalog of Funding platform
 
-Screen 2 : Donation of project with uPort and IPFS Integration
+            Screen 2 : Donation of project with uPort and IPFS Integration
 
-3. Deployed in Rinkebey Testnet
+     3. Deployed in Rinkebey Testnet
 
-4. Design Pattern Implemented - Contract Upgradability, Circuit Breaker, Emergency Stop, Fail as early and loudly as possible, Limit the amount of funds deposited
-5. Library - openzeppelin-solidity ownable, safeMath and StringUtils implementation/Integration
-6. Project uses uPort
-7. project uses IPFS
-8. project uses upgradability.
-9. Project deployed in Rinkebey Testnet.
+     4. Design Pattern Implemented - Contract Upgradability, Circuit Breaker, Emergency Stop, Fail as early and loudly as possible, Limit the amount of funds deposited
+     5. Library - openzeppelin-solidity ownable, safeMath and StringUtils implementation/Integration
+     6. Project uses uPort
+     7. project uses IPFS
+     8. project uses upgradability.
+     9. Project deployed in Rinkebey Testnet.
 
 
 ----------------------------------------------------------------------
