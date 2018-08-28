@@ -60,4 +60,4 @@ SECTION3 : Running the UI
     
 3. once uPort transaction is signed, please wait for few seconds(5-8) to get the Donors and targeted goals update. If not update, please do refresh of the page which would fetch the state and display the Donors count and goals correctly from the Rinkeby blockchain.
 
-
+4. Please note that, DAPP is tailored to run only with Desktop/Laptop view factor and hence the live demo url link will only work with desktop/Laptop URI. Experience the live demo experience with Desktop/Laptop(Not with Mobile browser).
