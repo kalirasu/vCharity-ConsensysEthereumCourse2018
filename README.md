@@ -53,7 +53,11 @@ SECTION3 : Running the UI
 - You can also visualise the transparency of goal set/target/current status.
 
 2.  This demo dApp should be available at: http://localhost:3000/ and look like in the screenshot attached.
-
+    ----------
+    Live Demo
+    ---------
+    http://ec2-18-217-240-130.us-east-2.compute.amazonaws.com:3000
+    
 3. once uPort transaction is signed, please wait for few seconds(5-8) to get the Donors and targeted goals update. If not update, please do refresh of the page which would fetch the state and display the Donors count and goals correctly from the Rinkeby blockchain.
 
 
