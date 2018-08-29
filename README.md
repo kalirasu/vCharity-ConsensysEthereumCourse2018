@@ -2,7 +2,7 @@
 SECTION1 : vCharity - Charity Platform for making Change together with Transparency
 --------------------------------------------------------------
 1.Objective: vCharity - A social funding and impact management platform built on the Ethereum blockchain.
-Each charity project encodes a list of "goals" that the charity aims to achieve, and each goal is assigned a price that the charity will receive if/when the goal is provably achieved.
+Each charity project encodes a list of "goals" that the charity aims to achieve, and charity will receive the fund if/when the goal is provably achieved.
 
     1. Transparent Donation
 
