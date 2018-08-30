@@ -23,9 +23,14 @@ Each charity project encodes a list of "goals" that the charity aims to achieve,
      4. Design Pattern Implemented - Contract Upgradability, Circuit Breaker, Emergency Stop, Fail as early and loudly as possible, Limit the amount of funds deposited
      5. Library - openzeppelin-solidity ownable, safeMath and StringUtils implementation/Integration
      6. Project uses uPort
-     7. project uses IPFS
+     7. project uses IPFS - https://ipfs.infura.io/ipfs/Qmbht8UqJ8vs5koPiopb9vtBPVwLyjpsFM7BZFVRYX61D6
      8. project uses upgradability.
-     9. Project deployed in Rinkebey Testnet.
+     9. Project deployed in Rinkebey Testnet - Documents/deployed_addresses.txt
+         1) Smart Contracts are deployed at Rinkeby Testnet
+
+        2) Contract Address: 0xb01E63e200187e1c388bf4b795a388961b5e25C9
+
+        3) Proof of Transaction on Rinkeby: https://rinkeby.etherscan.io/address/0xb01E63e200187e1c388bf4b795a388961b5e25C9
 
 
 ----------------------------------------------------------------------
